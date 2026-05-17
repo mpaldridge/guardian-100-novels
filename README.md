@@ -12,7 +12,7 @@ Well, the Guardian's list *almost* seems consistent with this method. If we comp
 
 But, second, there is one big inconsistency. In my scoring, My Ántonia by Willa Cather comes joint 75th, alongside The Bluest Eye, Dracula, and The Rainbow. But in the Guardian's list, My Ántonia only just scraped onto the list at position 100.
 
-What could explain this? Well, I don't know the Guardian's scoring method was the same as mine. Perhaps it was slightly different in such a way that the whole top 100 was totally unaffected with the sole exception of My Ántonia being knocked down 25 places. More likely, it seems to me, is that there was an error somewhere. Most likely seems that Tahmima Anam's tenth place vote got ignored. That gave the book 20 points for being included, plus 1 point for being tenth. Without that, the score goes down from 100 to 79, which moves it down from joint-75th to joint-97th, consistent with its ranking of 100.)
+What could explain this? Well, I don't know the Guardian's scoring method was the same as mine. Perhaps it was slightly different in such a way that the whole top 100 was totally unaffected with the sole exception of My Ántonia being knocked down 25 places. More likely, it seems to me, is that there was an error somewhere. The best explanation I can come up with is that Tahmima Anam's tenth-place vote for it somehow got ignored. That vote gave the book 20 points for being included, plus 1 point for being tenth. Without it, My Ántonia's score goes down from 100 to 79, which moves it down from joint-75th to joint-97th, consistent with its ranking of 100.)
 
 ## The lists
 
