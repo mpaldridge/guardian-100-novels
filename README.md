@@ -16,7 +16,7 @@ What could explain this? Well, I don't know the Guardian's scoring method was th
 
 ## The lists
 
-Anyway, here's the Guardian's ranking (left) against the one reproduced by my scoring method (right).
+Anyway, here's the Guardian's ranking (left) against the one reproduced by my scoring method (right). (This will be unpleasant to read on mobile.)
 
 <table>
 	<tr>
