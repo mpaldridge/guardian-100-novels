@@ -8,7 +8,7 @@ I was interested in doing some statistical analysis of the data, so I downloaded
 * The book then gets extra points for how high it is on the list: 1 extra point for tenth, 2 extra points for ninth, and so on, up to 10 extra points for first.
 * So overall, the scores are 21 for tenth, 22 for ninth, up to 30 for ninth.
 
-Well, the Guardian's list *almost* seems consistent with this method. If we compare the Guardian's ranking with the one I reproduced with this method, we see two differences. First, my method gives some ties – of course, it's totally fair for the Guardian to break ties in whatever way they see fit. (Commiserations to A Portrait of the Artist as a Young Man by James Joyce, which looks like it missed out on the tie-breaker, being joint-97th with Catch-22, The Road, and The Go-Between, all three of which just sneaked in.)
+Well, the Guardian's list *almost* seems consistent with this method. If we compare the Guardian's ranking with the one I reproduced with this method, we see two differences. First, my method gives some ties – of course, it's totally fair for the Guardian to break ties in whatever way they see fit. (Commiserations to A Portrait of the Artist as a Young Man by James Joyce, which looks like it missed out on the tie-breaker, having the same score as Catch-22, The Road, and The Go-Between, all three of which just sneaked in.)
 
 But, second, there is one big inconsistency. In my scoring, My Ántonia by Willa Cather comes joint 75th, alongside The Bluest Eye, Dracula, and The Rainbow. But in the Guardian's list, My Ántonia only just scraped onto the list at position 100.
 
