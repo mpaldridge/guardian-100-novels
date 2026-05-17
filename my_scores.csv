@@ -1,0 +1,684 @@
+title,author,score
+Middlemarch,George Eliot,1566
+Beloved,Toni Morrison,1143
+Ulysses,James Joyce,996
+To the Lighthouse,Virginia Woolf,815
+In Search of Lost Time,Marcel Proust,741
+Anna Karenina,Leo Tolstoy,729
+War and Peace,Leo Tolstoy,562
+Jane Eyre,Charlotte Brontë,541
+Pride and Prejudice,Jane Austen,519
+Madame Bovary,Gustave Flaubert,517
+The Great Gatsby,F Scott Fitzgerald,516
+Bleak House,Charles Dickens,512
+Emma,Jane Austen,484
+Mrs Dalloway,Virginia Woolf,477
+Moby-Dick,Herman Melville,476
+Nineteen Eighty-Four,George Orwell,475
+One Hundred Years of Solitude,Gabriel García Márquez,464
+Persuasion,Jane Austen,445
+"The Life and Opinions of Tristram Shandy, Gentleman",Laurence Sterne,442
+Wuthering Heights,Emily Brontë,414
+The Portrait of a Lady,Henry James,404
+Things Fall Apart,Chinua Achebe,366
+Midnight's Children,Salman Rushdie,339
+The Remains of the Day,Kazuo Ishiguro,326
+Lolita,Vladimir Nabokov,319
+Don Quixote,Miguel de Cervantes,304
+The Trial,Franz Kafka,290
+The Brothers Karamazov,Fyodor Dostoyevsky,272
+Pale Fire,Vladimir Nabokov,268
+Frankenstein,Mary Shelley,261
+The Prime of Miss Jean Brodie,Muriel Spark,257
+The God of Small Things,Arundhati Roy,256
+David Copperfield,Charles Dickens,251
+Wolf Hall,Hilary Mantel,244
+Great Expectations,Charles Dickens,232
+The Handmaid's Tale,Margaret Atwood,230
+Invisible Man,Ralph Ellison,225
+The Age of Innocence,Edith Wharton,223
+Their Eyes Were Watching God,Zora Neale Hurston,194
+Song of Solomon,Toni Morrison,184
+Heart of Darkness,Joseph Conrad,182
+The Magic Mountain,Thomas Mann,177
+Housekeeping,Marilynne Robinson,175
+Giovanni's Room,James Baldwin,172
+The Golden Notebook,Doris Lessing,170
+The Leopard,Giuseppe Tomasi di Lampedusa,159
+Vanity Fair,William Makepeace Thackeray,155
+The Metamorphosis,Franz Kafka,154
+A Fine Balance,Rohinton Mistry,151
+Wide Sargasso Sea,Jean Rhys,145
+My Brilliant Friend,Elena Ferrante,142
+The Golden Bowl,Henry James,138
+The Transit of Venus,Shirley Hazzard,135
+Orlando,Virginia Woolf,134
+The Waves,Virginia Woolf,133
+Mansfield Park,Jane Austen,131
+The Sound and the Fury,William Faulkner,129
+Disgrace,JM Coetzee,127
+Never Let Me Go,Kazuo Ishiguro,126
+Howards End,EM Forster,124
+The Rings of Saturn,WG Sebald,123
+Half of a Yellow Sun,Chimamanda Ngozi Adichie,120
+White Teeth,Zadie Smith,120
+The Good Soldier,Ford Madox Ford,118
+The Color Purple,Alice Walker,113
+The Master and Margarita,Mikhail Bulgakov,112
+The Man Without Qualities,Robert Musil,108
+Blood Meridian,Cormac McCarthy,104
+Crime and Punishment,Fyodor Dostoevsky,104
+Jude the Obscure,Thomas Hardy,104
+Kindred,Octavia E Butler,102
+Our Mutual Friend,Charles Dickens,102
+Nervous Conditions,Tsitsi Dangarembga,101
+Austerlitz,WG Sebald,101
+Dracula,Bram Stoker,100
+My Ántonia,Willa Cather,100
+The Bluest Eye,Toni Morrison,100
+The Rainbow,DH Lawrence,100
+A House for Mr Biswas,VS Naipaul,98
+Go Tell It on the Mountain,James Baldwin,98
+Rebecca,Daphne du Maurier,98
+Buddenbrooks,Thomas Mann,97
+The End of the Affair,Graham Greene,97
+A Farewell to Arms,Ernest Hemingway,97
+The Talented Mr Ripley,Patricia Highsmith,96
+The Turn of the Screw,Henry James,96
+The Vegetarian,Han Kang,96
+The Line of Beauty,Alan Hollinghurst,95
+Ragtime,EL Doctorow,93
+The Left Hand of Darkness,Ursula K Le Guin,90
+Jacob's Room,Virginia Woolf,86
+Life and Fate,Vasily Grossman,83
+Sentimental Education,Gustave Flaubert,82
+Invisible Cities,Italo Calvino,81
+The Known World,Edward P Jones,81
+The Return of the Native,Thomas Hardy,81
+Pedro Páramo,Juan Rulfo,80
+A Portrait of the Artist as a Young Man,James Joyce,79
+Catch-22,Joseph Heller,79
+The Go-Between,LP Hartley,79
+The Road,Cormac McCarthy,79
+Love in the Time of Cholera,Gabriel García Márquez,78
+The Years,Annie Ernaux,78
+The Lord of the Rings,J.R.R. Tolkien,78
+To Kill a Mockingbird,Harper Lee,78
+Light in August,William Faulkner,78
+The Mirror and the Light,Hilary Mantel,76
+Robinson Crusoe,Daniel Defoe,76
+The Name of the Rose,Umberto Eco,76
+The Summer Book,Tove Jansson,76
+Barchester Towers,Anthony Trollope,75
+A Dance to the Music of Time,Anthony Powell,75
+Drive Your Plow Over the Bones of the Dead,Olga Tokarczuk,75
+The Blue Flower,Penelope Fitzgerald,75
+How to Be Both,Ali Smith,74
+Money,Martin Amis,74
+American Pastoral,Philip Roth,72
+Huckleberry Finn,Mark Twain,71
+The Grapes of Wrath,John Steinbeck,71
+Sense and Sensibility,Jane Austen,71
+The House of Mirth,Edith Wharton,71
+Infinite Jest,David Foster Wallace,70
+The Tale of Genji,Murasaki Shikibu,70
+Villette,Charlotte Brontë,70
+Herzog,Saul Bellow,69
+Septology,Jon Fosse,67
+The Catcher in the Rye,J. D. Salinger,66
+Underworld,Don DeLillo,66
+The Death of the Heart,Elizabeth Bowen,63
+Nw,Zadie Smith,59
+Berlin Alexanderplatz,Alfred Döblin,58
+Hunger,Knut Hamsun,58
+The Enigma of Arrival,V. S. Naipaul,58
+Cannery Row,John Steinbeck,57
+Lonesome Dove,Larry McMurtry,57
+Palm-Wine Drinkard,Amos Tutuola,57
+The Book of Daniel,E. L. Doctorow,57
+Maurice,E. M. Forster,56
+Nights at the Circus,Angela Carter,56
+A Little Life,Hanya Yanagihara,55
+"Lolly Willowes, Or, the Loving Huntsman",Sylvia Townsend Warner,55
+The Dirty Dust,Máirtín Ó Cadhain,55
+Anne of Green Gables,Lucy Maud Montgomery,54
+Pnin,Vladimir Nabokov,54
+Praiseworthy,Alexis Wright,54
+Slaughterhouse-Five,Kurt Vonnegut,54
+The Makioka Sisters,Jun'ichirō Tanizaki,54
+The Memory Police,Yoko Ogawa,54
+The Plague,Albert Camus,54
+The Scarlet Letter,Nathaniel Hawthorne,54
+The Tin Drum,Günter Grass,54
+Who Will Run the Frog Hospital?,Lorrie Moore,54
+Death in Venice,Thomas Mann,53
+If on a Winter's Night a Traveller,Italo Calvino,53
+The Bone People,Keri Hulme,53
+A Passage to India,E. M. Forster,53
+A Visit From the Goon Squad,Jennifer Egan,53
+As I Lay Dying,William Faulkner,53
+Eugene Onegin,Alexander Pushkin,53
+Sula,Toni Morrison,53
+We Have Always Lived in the Castle,Shirley Jackson,53
+2666,Roberto Bolaño,52
+Cranford,Elizabeth Gaskell,52
+Gravity's Rainbow,Thomas Pynchon,52
+Light Years,James Salter,52
+Small Things Like These,Claire Keegan,52
+The Beginning of Spring,Penelope Fitzgerald,52
+The Big Sleep,Raymond Chandler,52
+The Heart Is a Lonely Hunter,Carson McCullers,52
+The Outsider,Albert Camus,52
+The Piano Teacher,Elfriede Jelinek,52
+The Safekeep,Yael van der Wouden,52
+Loitering With Intent,Muriel Spark,52
+A Wizard of Earthsea,Ursula K. Le Guin,51
+All Our Yesterdays,Natalia Ginzburg,51
+Bring up the Bodies,Hilary Mantel,51
+Commonwealth,Ann Patchett,51
+Daniel Deronda,George Eliot,51
+Demon Copperhead,Barbara Kingsolver,51
+Fun Home,Alison Bechdel,51
+Germinal,Émile Zola,51
+Human Acts,Han Kang,51
+Lives of Girls and Women,Alice Munro,51
+Possession,A. S. Byatt,51
+Swami and Friends,R. K. Narayan,51
+The Buddha of Suburbia,Hanif Kureishi,51
+The Power and the Glory,Graham Greene,51
+The Stranger,Albert Camus,51
+Too Loud a Solitude,Bohumil Hrabal,51
+Afterlives,Abdulrazak Gurnah,50
+East of Eden,John Steinbeck,50
+Les Misérables,Victor Hugo,50
+Nightwood,Djuna Barnes,50
+Parade's End,Ford Madox Ford,50
+The Bell Jar,Sylvia Plath,50
+The English Patient,Michael Ondaatje,50
+The Girls of Slender Means,Muriel Spark,50
+The Picture of Dorian Gray,Oscar Wilde,50
+The Tartar Steppe,Dino Buzzati,50
+A Bend in the River,V. S. Naipaul,49
+A Place of Greater Safety,Hilary Mantel,49
+Alice's Adventures in Wonderland,Lewis Carroll,49
+Americanah,Chimamanda Ngozi Adichie,49
+Gilead,Marilynne Robinson,49
+Tess of the D'urbervilles,Thomas Hardy,49
+The Dark Is Rising,Susan Cooper,49
+The Radetzky March,Joseph Roth,49
+The Secret History,Donna Tartt,49
+The Sellout,Paul Beatty,49
+Wise Children,Angela Carter,49
+A Handful of Dust,Evelyn Waugh,48
+"Life, a User's Manual",Georges Perec,48
+The Hitch Hiker's Guide to the Galaxy,Douglas Adams,48
+Lanark,Alasdair Gray,47
+Life After Life,Kate Atkinson,47
+Sons and Lovers,D. H. Lawrence,47
+Tamarisk Row,Gerald Murnane,47
+Waiting for the Barbarians,J. M. Coetzee,47
+Outline,Rachel Cusk,47
+Station Eleven,Emily St. John Mandel,47
+The Corrections,Jonathan Franzen,47
+Gulliver's Travels,Jonathan Swift,46
+Paradise,Abdulrazak Gurnah,46
+Piranesi,Susanna Clarke,46
+The Millstone,Margaret Drabble,46
+The Third Policeman,Flann O'Brien,46
+All Quiet on the Western Front,Erich Maria Remarque,45
+Restoration,Rose Tremain,45
+Riddley Walker,Russell Hoban,45
+The Adventures of Augie March,Saul Bellow,45
+The Pilgrim's Progress,John Bunyan,45
+The Sun Also Rises,Ernest Hemingway,45
+Siddhartha,Hermann Hesse,44
+Small Island,Andrea Levy,44
+Another Country,James Baldwin,43
+Cloud Atlas,David Mitchell,43
+Kafka on the Shore,Haruki Murakami,43
+Matrix,Lauren Groff,43
+Northern Lights,Philip Pullman,43
+On the Road,Jack Kerouac,43
+Suite Française,Irène Némirovsky,43
+The Ambassadors,Henry James,43
+A Room of One's Own,Virginia Woolf,42
+La Princesse De Cleves,Madame de La Fayette,42
+Nora Webster,Colm Tóibín,42
+The Count of Monte Cristo,Alexandre Dumas,42
+A Flag for Sunrise,Robert Stone,30
+A Model Childhood,Christa Wolf,30
+A Month in the Country,J. L. Carr,30
+Black Boy,Richard Wright,30
+Citizen,Claudia Rankine,30
+Clarissa Harlowe,Samuel Richardson,30
+"Ducks, Newburyport",Lucy Ellmann,30
+Farenheit 451,Ray Bradbury,30
+House on the Borderland,William Hope Hodgson,30
+Latecomers,Anita Brookner,30
+Memory of Fire,Eduardo Galeano,30
+Miss Smilla's Feeling for Snow,Peter Høeg,30
+Old Filth Trilogy,Jane Gardam,30
+Rig Veda,Anonymous,30
+Savushun,Simin Daneshvar,30
+Soldiers of Salamis,Javier Cercas,30
+Something Happened,Joseph Heller,30
+The Adventures of Oliver Twist,Charles Dickens,30
+The Country of the Pointed Firs,Sarah Orne Jewett,30
+The Deptford Trilogy,Robertson Davies,30
+The Golden Gate,Vikram Seth,30
+The Palliser Novels,Anthony Trollope,30
+The Song of Achilles,Madeline Miller,30
+The Third Lie,Ágota Kristóf,30
+Three Men in a Boat,Jerome K. Jerome,30
+U.s.a.,John Dos Passos,30
+Women in Love,D. H. Lawrence,30
+A High Wind in Jamaica,Richard Hughes,29
+Animal Farm,George Orwell,29
+Arturo's Island,Elsa Morante,29
+Bridget Jones's Diary,Helen Fielding,29
+Couples,John Updike,29
+"Detransition, Baby",Torrey Peters,29
+Fire and Hemlock,Diana Wynne Jones,29
+Libra,Don DeLillo,29
+Mussel Feast,Birgit Vanderbeke,29
+Promise at Dawn,Romain Gary,29
+Proxopera,Benedict Kiely,29
+Red Badge of Courage,Stephen Crane,29
+Sleeping Murder,Agatha Christie,29
+Strange Tales From a Chinese Studio,Pu Songling,29
+The Book of Night Women,Marlon James,29
+The Bridge on the Drina,Ivo Andrić,29
+The Country Girls,Edna O'Brien,29
+The Divine Comedy,Dante Alighieri,29
+The Garden of the Finzi-Continis,Giorgio Bassani,29
+The House of the Spirits,Isabel Allende,29
+The Real Life of Sebastian Knight,Vladimir Nabokov,29
+The Siege of Krishnapur,J. G. Farrell,29
+The Slap,Christos Tsiolkas,29
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,29
+The Tenant of Wildfell Hall,Anne Brontë,29
+The Wings of a Dove,Henry James,29
+Trilby,George du Maurier,29
+Under the Volcano,Malcolm Lowry,29
+A Severed Head,Iris Murdoch,28
+All That Is,James Salter,28
+Arrow of God,Chinua Achebe,28
+At Swim-Two-Birds,Flann O'Brien,28
+"Clarissa, Or, the History of a Young Lady",Samuel Richardson,28
+Family Life,Akhil Sharma,28
+Flowers for Algernon,Daniel Keyes,28
+Ghost Wall,Sarah Moss,28
+"Good Morning, Midnight",Jean Rhys,28
+Grief Is the Thing With Feathers,Max Porter,28
+Hopscotch,Julio Cortázar,28
+Hurricane Season,Fernanda Melchor,28
+In Diamond Square,Mercè Rodoreda,28
+Ivan Ilyitch,Leo Tolstoy,28
+Leviathan,Paul Auster,28
+Memoirs of Hadrian,Marguerite Yourcenar,28
+Nightcrawling,Leila Mottley,28
+North Woods,Daniel Mason,28
+Pachinko,Min Jin Lee,28
+Roxana,Daniel Defoe,28
+Shadows on the Rock,Willa Cather,28
+Silas Marner,George Eliot,28
+The Bell,Iris Murdoch,28
+The Busconductor Hines,James Kelman,28
+The Cider House Rules,John Irving,28
+The Custom of the Country,Edith Wharton,28
+The Lie Tree,Frances Hardinge,28
+The Outsiders,S. E. Hinton,28
+The Pursuit of Love,Nancy Mitford,28
+The Red and the Black,Stendhal,28
+"The Sea, the Sea",Iris Murdoch,28
+The Shipping News,Annie Proulx,28
+The Tale of the 1002nd Night,Joseph Roth,28
+The Trees,Percival L. Everett,28
+Tongues I,Anders Nilsen,28
+A Sentimental Journey,Laurence Sterne,27
+A Thousand Splendid Suns,Khaled Hosseini,27
+Cousin Bette,Honoré de Balzac,27
+"Cry, the Beloved Country",Alan Paton,27
+Earthsea,Ursula K. Le Guin,27
+Fingersmith,Sarah Waters,27
+Foster,Claire Keegan,27
+Golden Hill,Francis Spufford,27
+Invitation to a Beheading,Vladimir Nabokov,27
+Murphy,Samuel Beckett,27
+Nostromo,Joseph Conrad,27
+Overstory,Richard Powers,27
+Record of a Night Too Brief,Kawakami Hiromi,27
+Sag Harbor,Colson Whitehead,27
+Seasons of Anomy,Wole Soyinka,27
+Summertime,J. M. Coetzee,27
+Suttree,Cormac McCarthy,27
+The Alexandria Quartet,Lawrence Durrell,27
+The Hobbit,J.R.R. Tolkien,27
+The Improvement of Human Reason,Ibn Tufayl,27
+The Journal of Albion Moonlight,Kenneth Patchen,27
+The Joys of Motherhood,Buchi Emecheta,27
+The Last Samurai,Helen Dewitt,27
+The Monk,Matthew Gregory Lewis,27
+The Moor's Account,Laila Lalami,27
+The Translator,Leila Aboulela,27
+Towards the End of the Morning,Michael Frayn,27
+Trout Fishing in America,Richard Brautigan,27
+Where We Come From,Oscar Casares,27
+White Noise,Don DeLillo,27
+Woodcutters,Thomas Bernhard,27
+A Kestrel for a Knave,Barry Hines,26
+After Midnight,Irmgard Keun,26
+Alice in Wonderland,Lewis Carroll,26
+Allah Is Not Obliged,Ahmadou Kourouma,26
+By Night in Chile,Roberto Bolaño,26
+Coming Through Slaughter,Michael Ondaatje,26
+Grey King,Susan Cooper,26
+Heart so White,Javier Marías,26
+Home,Marilynne Robinson,26
+House of Leaves,Mark Z. Danielewski,26
+In the Skin of a Lion,Michael Ondaatje,26
+Joseph and His Brothers,Thomas Mann,26
+Marabou Stork Nightmares,Irvine Welsh,26
+Maus,Art Spiegelman,26
+Molloy,Samuel Beckett,26
+North and South,Elizabeth Gaskell,26
+Notes From the Underground,Fyodor Dostoevsky,26
+One Thousand and One Nights,Scheherazade,26
+Pather Panchali,Bibhutibhushan Bandyopadhyay,26
+Poor,Caleb Femi,26
+Sorrows of Young Werther,Johann Wolfgang von Goethe,26
+Sudden Death,Álvaro Enrigue,26
+The Alchemist,Paulo Coelho,26
+The Child in Time,Ian McEwan,26
+The Easter Parade,Richard Yates,26
+The Employees,Olga Ravn,26
+The Hounds of the Morrigan,Pat O'Shea,26
+The Loneliness of Sonia and Sunny,Kiran Desai,26
+The Maltese Falcon,Dashiell Hammett,26
+The Plains,Gerald Murnane,26
+The Recognitions,William Gaddis,26
+The Satanic Verses,Salman Rushdie,26
+The Spider's House,Paul Bowles,26
+Two Serious Ladies,Jane Bowles,26
+Union Street,Pat Barker,26
+Vernon Subutex 1,Virginie Despentes,26
+A Boy's Own Story,Edmund White,25
+A Guest of Honour,Nadine Gordimer,25
+A River Called Time,Mia Couto,25
+A Void,Georges Perec,25
+All the Names,José Saramago,25
+Atonement,Ian McEwan,25
+Bee Sting,Paul Murray,25
+Charlotte's Web,E. B. White,25
+Cloudstreet,Tim Winton,25
+Confessions of Zeno,Italo Svevo,25
+Elective Affinities,Johann Wolfgang von Goethe,25
+Falling Man,Don DeLillo,25
+Family and Friends,Anita Brookner,25
+I Capture the Castle,Dodie Smith,25
+I Served the King of England,Bohumil Hrabal,25
+Klara and the Sun,Kazuo Ishiguro,25
+Little Boy Lost,Marghanita Laski,25
+Love Me Tender,Constance Debré,25
+Maps,Nuruddin Farah,25
+Middlesex,Jeffrey Eugenides,25
+No Longer Human,Osamu Dazai,25
+Quicksand,Nella Larsen,25
+Samskara,U. R. Anantha Murthy,25
+Scoop,Evelyn Waugh,25
+Slave Old Man,Patrick Chamoiseau,25
+The Collector,John Fowles,25
+The Goldfinch,Donna Tartt,25
+The Lonely Londoners,Samuel Selvon,25
+The Luminaries,Eleanor Catton,25
+The Patrick Melrose Novels,Edward St Aubyn,25
+The Phantom Tollbooth,Norton Juster,25
+The Road to the City,Natalia Ginzburg,25
+The Way We Live Now,Anthony Trollope,25
+Things We Lost in the Fire,Mariana Enriquez,25
+"To Be Taught, If Fortunate",Becky Chambers,25
+Transit,Rachel Cusk,25
+Visitation,Jenny Erpenbeck,25
+Watchmen,Alan Moore,25
+Who Was Changed and Who Was Dead,Barbara Comyns,25
+Wise Blood,Flannery O'Connor,25
+Wittgenstein's Mistress,David Markson,25
+Women Talking,Miriam Toews,25
+A Compass Error,Sybille Bedford,24
+A Girl Is a Half-Formed Thing,Eimear McBride,24
+A Mind at Peace,Ahmet Hamdi Tanpınar,24
+A Rabbit Omnibus,John Updike,24
+American Psycho,Bret Easton Ellis,24
+American Tabloid,James Ellroy,24
+Big Swiss,Jen Beagin,24
+Blindness,José Saramago,24
+Brideshead Revisited,Evelyn Waugh,24
+By the Sea,Abdulrazak Gurnah,24
+Cartucho,Nellie Campobello,24
+Cat's Cradle,Kurt Vonnegut,24
+Caught,Henry Green,24
+Ceremony,Leslie Silko,24
+Demons,Fyodor Dostoevsky,24
+Gormenghast,Mervyn Peake,24
+Hamnet,Maggie O'Farrell,24
+If Beale Street Could Talk,James Baldwin,24
+In Cold Blood,Truman Capote,24
+In the Time of the Butterflies,Julia Alvarez,24
+June Rain,Jabbour Douaihy,24
+Lincoln in the Bardo,George Saunders,24
+Mill on the Floss,George Eliot,24
+Miss Marjoribanks,Margaret Oliphant,24
+Mrs. Palfrey at the Claremont,Elizabeth Taylor,24
+One Thousand and One Nights,Anonymous,24
+Pig Earth,John Berger,24
+Possessing the Secret of Joy,Alice Walker,24
+Reading Turgenev,William Trevor,24
+Samuel Beckett Trilogy Molloy; Malone Dies; the Unnamable,Samuel Beckett,24
+Season of Migration to the North,Tayeb Salih,24
+"So Long, See You Tomorrow",William Maxwell,24
+Sport and a Pastime,James Salter,24
+Tender Is the Night,F. Scott Fitzgerald,24
+Textermination,Christine Brooke-Rose,24
+The Bonfire of the Vanities,Tom Wolfe,24
+The Decameron of Boccaccio,Giovanni Boccaccio,24
+The Fall of the House of Usher,Edgar Allan Poe,24
+The Green Road,Anne Enright,24
+The Heart of Midlothian,Walter Scott,24
+The Idiot,Fyodor Dostoevsky,24
+The Magic Toyshop,Angela Carter,24
+The Passion According to G.h.,Clarice Lispector,24
+The Story of Lucy Gault,William Trevor,24
+The Street,Ann Petry,24
+The Unbearable Lightness of Being,Milan Kundera,24
+The Unicorn,Iris Murdoch,24
+The Vanishing Half,Brit Bennett,24
+The Waiting Years,Fumiko Enchi,24
+"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,24
+Trainspotting,Irvine Welsh,24
+Vile Bodies,Evelyn Waugh,24
+A New Life,Bernard Malamud,23
+And Then There Were None,Agatha Christie,23
+Angel,Elizabeth Taylor,23
+By Grand Central Station I Sat Down and Wept,Elizabeth Smart,23
+Chronicle of a Death Foretold,Gabriel García Márquez,23
+Dr Gully,Elizabeth Jenkins,23
+Emily Wilde's Encyclopaedia of Faeries,Heather Fawcett,23
+Europe After the Rain,Alan Burns,23
+Felicia's Journey,William Trevor,23
+Golden Age,Wang Xiaobo,23
+Gone Girl,Gillian Flynn,23
+Here,Richard McGuire,23
+Home to Harlem,Claude McKay,23
+Humboldt's Gift,Saul Bellow,23
+Ice,Anna Kavan,23
+If This Is a Man / the Truce,Primo Levi,23
+Independant People,Halldór Laxness,23
+Jonathan Strange & Mr. Norrell,Susanna Clarke,23
+Journey by Moonlight,Antal Szerb,23
+Love Medicine,Louise Erdrich,23
+Lucky Jim,Kingsley Amis,23
+Mammoth,Eva Baltasar,23
+Memento Mori,Muriel Spark,23
+Michael Kohlhaas,Heinrich von Kleist,23
+Milkman,Anna Burns,23
+Normal People,Sally Rooney,23
+Notre Dame De Paris,Victor Hugo,23
+Noughts & Crosses,Malorie Blackman,23
+Oblomov,Ivan Aleksandrovich Goncharov,23
+On the Edge of Reason,Miroslav Krleža,23
+Ordinary People,Diana Evans,23
+Point Counter Point,Aldous Huxley,23
+Problems,Jade Sharma,23
+Rabbit Is Rich,John Updike,23
+Sultana's Dream,Rokeya Sakhawat Hossain,23
+Tarka the Otter,Henry Williamson,23
+The Affirmation,Christopher Priest,23
+The Amazing Mr Blunden,Antonia Barber,23
+The Autobiography of Alice B. Toklas,Gertrude Stein,23
+The Baron in the Trees,Italo Calvino,23
+The Betrothed,Alessandro Manzoni,23
+The Bloater,Rosemary Tonks,23
+The Castle,Franz Kafka,23
+The Emperor's Babe,Bernardine Evaristo,23
+The Famished Road,Ben Okri,23
+"The Fortnight in September,",R. C. Sherriff,23
+The Grass Is Singing,Doris Lessing,23
+The Hunchback of Notre-Dame,Victor Hugo,23
+The Ice Palace,Tarjei Vesaas,23
+The Lover,Marguerite Duras,23
+The Man Who Planted Trees,Jean Giono,23
+The Names,Don DeLillo,23
+The Spiral Ascent,Edward Upward,23
+The Stand,Stephen King,23
+"The Story of the Stone, or the Dream of the Red Chamber",Cao Xueqin,23
+The Trick Is to Keep Breathing,Janice Galloway,23
+The War of the Worlds,H. G. Wells,23
+Titus Groan,Mervyn Peake,23
+Under Milk Wood,Dylan Thomas,23
+Watership Down,Richard Adams,23
+A Long Way Down,Nick Hornby,22
+A Month in the Country,JL Carr,22
+A Month in the Country,James Lloyd Carr,22
+All About H. Hatterr,G. V. Desani,22
+Amongst Women,John McGahern,22
+Aubrey-Maturin Series,Patrick O'Brian,22
+Bear,Marian Engel,22
+Boredom,Alberto Moravia,22
+Breath,Tim Winton,22
+Confessions of a Mask,Yukio Mishima,22
+Conversation in the Cathedral,Mario Vargas Llosa,22
+Crooked Plow,Itamar Vieira Junior,22
+Darkmans,Nicola Barker,22
+Elders and Betters,Ivy Compton-Burnett,22
+Flaubert's Parrot,Julian Barnes,22
+Heat of the Day,Elizabeth Bowen,22
+"How Late It Was, How Late",James Kelman,22
+In the Distance,Hernán Díaz,22
+Intermezzo,Sally Rooney,22
+James,Percival L. Everett,22
+Lead Us Into Temptation,Breandán Ó hEithir,22
+Minor Detail,Adania Shibli,22
+Moderato Cantabile,Marguerite Duras,22
+Moominland Midwinter,Tove Jansson,22
+Nana,Émile Zola,22
+Passing,Nella Larsen,22
+Pather Panchali,Bibhutibhushan Bandopadhyay,22
+Pickwick Papers,Charles Dickens,22
+"Rabbit, Run",John Updike,22
+Revolutionary Road,Richard Yates,22
+Simplicissimus,Hans Jakob Christoffel von Grimmelshausen,22
+Smiley's People,John le Carré,22
+Stamboul Train,Graham Greene,22
+Strangers,Anita Brookner,22
+Telephone,Percival L. Everett,22
+Territory of Light,Yuko Tsushima,22
+The Code of the Woosters,P. G. Wodehouse,22
+The Coming Bad Days,Sarah Bernstein,22
+The Dew Breaker,Edwidge Danticat,22
+The Dispossessed,Ursula K. Le Guin,22
+The Gathering,Anne Enright,22
+The Loser,Thomas Bernhard,22
+The Moviegoer,Walker Percy,22
+The Noise of Time,Julian Barnes,22
+The Poisonwood Bible,Barbara Kingsolver,22
+The Razor's Edge,William Somerset Maugham,22
+The Secret Agent,Joseph Conrad,22
+The Thing About December,Donal Ryan,22
+The Time of the Doves,Mercè Rodoreda,22
+The Vagabond,Colette,22
+The Vicar of Wakefield,Oliver Goldsmith,22
+The Yellow Wallpaper,Charlotte Perkins Gilman,22
+Tree of Smoke,Denis Johnson,22
+True History of the Kelly Gang,Peter Carey,22
+Voyage in the Dark,Jean Rhys,22
+Waterland,Graham Swift,22
+Zone,Mathias Enard,22
+A Far Cry From Kensington,Muriel Spark,21
+A Prayer for Owen Meany,John Irving,21
+A Question of Power,Bessie Head,21
+A Suitable Boy,Vikram Seth,21
+After Sappho,Selby Wynn Schwartz,21
+Aunt Julia and the Script-Writer,Mario Vargas Llosa,21
+Chéri,Colette,21
+Danny the Champion of the World,Roald Dahl,21
+Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,21
+Eighth Life,Nino Haratischvili,21
+Exit West,Mohsin Hamid,21
+Freshwater,Akwaeke Emezi,21
+Haroun and the Sea of Stories,Salman Rushdie,21
+Hotel Du Lac,Anita Brookner,21
+Kim,Rudyard Kipling,21
+Martyr!,Kaveh Akbar,21
+McTeague,Frank Norris,21
+Men in the Sun and Other Palestinian Stories,Ghassan Kanafani,21
+Morvern Callar,Alan Warner,21
+Of Love and Other Demons,Gabriel García Márquez,21
+Omeros,Derek Walcott,21
+On Earth We're Briefly Gorgeous,Ocean Vuong,21
+Operation Shylock,Philip Roth,21
+Oscar & Lucinda,Peter Carey,21
+Parable of the Sower,Octavia E. Butler,21
+Portnoy's Complaint,Philip Roth,21
+Quartet in Autumn,Barbara Pym,21
+Rabbit at Rest,John Updike,21
+"Right Ho, Jeeves",P. G. Wodehouse,21
+Scattered All Over the Earth,Yoko Tawada,21
+Seize the Day,Saul Bellow,21
+Senseless,Paul Golding,21
+Silent Spring,Rachel Carson,21
+Sister Outsider,Audre Lorde,21
+Stag Dance,Torrey Peters,21
+Still Life,A. S. Byatt,21
+Tale for the Time Being,Ruth Ozeki,21
+Tales of the City,Armistead Maupin,21
+Tar Baby,Toni Morrison,21
+The 39 Steps,John Buchan,21
+The Amazing Adventures of Kavalier and Clay,Michael Chabon,21
+The Birthday Boys,Beryl Bainbridge,21
+The Black Prince,Iris Murdoch,21
+The Blind Owl,Sadegh Hedayat,21
+The City & the City,China Miéville,21
+The Discomfort of Evening,Lucas Rijneveld,21
+The Empty Book,Josefina Vicens,21
+The Fish Can Sing,Halldór Laxness,21
+The Gormenghast Novels,Mervyn Peake,21
+The Haunting of Hill House,Shirley Jackson,21
+The Information,Martin Amis,21
+The Inverted World,Christopher Priest,21
+The Light Years,Elizabeth Jane Howard,21
+The Long View,Elizabeth Jane Howard,21
+The Maniac,Benjamín Labatut,21
+The Murder of Roger Ackroyd,Agatha Christie,21
+The Private Memoirs and Confessions of a Justified Sinner,James Hogg,21
+The Slaves of Solitude,Patrick Hamilton,21
+The Sportswriter,Richard Ford,21
+The Spy Who Came in From the Cold,John le Carré,21
+The Swimming-Pool Library,Alan Hollinghurst,21
+The Tunnel,William H. Gass,21
+The Valley of Fear,Arthur Conan Doyle,21
+Thirst for Love,Yukio Mishima,21
+Those Who Leave and Those Who Stay,Elena Ferrante,21
+Tom Lake,Ann Patchett,21
+Washington Square,Henry James,21
+We All Want Impossible Things,Catherine Newman,21
+Wonder,R. J. Palacio,21
