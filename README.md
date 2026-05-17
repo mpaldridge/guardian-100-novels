@@ -2,13 +2,13 @@
 
 <table>
 	<tr>
-		<td></td>
-		<td>Guardian ranking</td>
-		<td>My reproduction</td>
+		<th></th>
+		<th>Guardian ranking</th>
+		<th>My reproduction</th>
 	</tr>
 	<tr>
 		<td>1</td>
-		<td>Middlemarch by George Eliot&yen;</td>
+		<td>Middlemarch by George Eliot</td>
 		<td>Middlemarch by George Eliot (1566)</td>
 	</tr>
 	<tr>
