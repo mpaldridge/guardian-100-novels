@@ -512,7 +512,7 @@ Anyway, here's the Guardian's ranking (left) against the one reproduced by my sc
 
 ## PS
 
-If you're interested, the following books just missed out on the list, begin joint 102nd, after A Portrait of the Artist as a Young Man by James Joyce:
+If you're interested, the following books just missed out on the list, being joint 102nd, after A Portrait of the Artist as a Young Man by James Joyce:
 
 * Love in the Time of Cholera by Gabriel García Márquez
 * The Years by Annie Ernaux
