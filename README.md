@@ -2,7 +2,7 @@
 
 I have been enjoying reading through (and arguing with!) the Guardian's [100 best novels list](https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time).
 
-I was interested in doing some statistical analysis of the data, so I downloaded the list of votes, and started playing with it R. The Guardian doesn't say how they turned the raw votes into the top-100 ranking, but it seems to be consistent with the following method:
+I was interested in doing some statistical analysis of the data, so I downloaded the list of votes, and started playing with it in R. The Guardian doesn't say how they turned the raw votes into the top-100 ranking, but it seems to be consistent with the following method:
 
 * A book gets 20 points for being mentioned on a list at all.
 * The book then gets extra points for how high it is on the list: 1 extra point for tenth, 2 extra points for ninth, up to 10 extra points for first.
