@@ -386,10 +386,6 @@
 		<td>The Rainbow by DH Lawrence</td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>78</td>
 		<td>A House for Mr Biswas by VS Naipaul</td>
 		<td rowspan="3">A House for Mr Biswas by VS Naipaul (98)<br>Go Tell It on the Mountain by James Baldwin (98)<br>Rebecca by Daphne du Maurier (98)</td>
