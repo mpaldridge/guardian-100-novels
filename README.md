@@ -375,7 +375,7 @@
 	<tr>
 		<td>75</td>
 		<td>The Bluest Eye by Toni Morrison</td>
-		<td rowspan="3">The Bluest Eye by Toni Morrison (100)<br>Dracula by Bram Stoker (100)<br>The Rainbow by DH Lawrence (100)<br>My Ántonia by Willa Cather (100)</td>
+		<td rowspan="3">The Bluest Eye by Toni Morrison (100)<br>Dracula by Bram Stoker (100)<br>The Rainbow by DH Lawrence (100)<br><strong style="color: red;">My Ántonia by Willa Cather (100)</strong></td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -487,7 +487,7 @@
 	</tr>
 	<tr>
 		<td>100</td>
-		<td>My Ántonia by Willa Cather</td>
+		<td><strong style="color: red;">My Ántonia by Willa Cather</strong></td>
 	</tr>
 </table>
 
