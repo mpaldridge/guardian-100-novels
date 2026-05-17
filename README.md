@@ -1,4 +1,22 @@
-# guardian-100-novels
+# Is there an error in the Guardian 100 best novels list?
+
+I have been enjoying reading through (and arguing with!) the Guardian's [100 best novels list](https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time).
+
+I was interested in doing some statistical analysis of the data, so I downloaded the list of votes, and started playing with it R. The Guardian doesn't say how they turned the raw votes into the top-100 ranking, but it seems to be consistent with the following method:
+
+* A book gets 20 points for being mentioned on a list at all.
+* The book then gets extra points for how high it is on the list: 1 extra point for tenth, 2 extra points for ninth, up to 10 extra points for first.
+* So overall, the scores are 21 for tenth, 22 for ninth, up to 30 for ninth.
+
+Well, the Guardian's list *almost* seems consistent with this method. If we compare the Guardian's ranking with the one I reproduced with this method, we see two differences. First, my method gives some ties – of course, it's totally fair for the Guardian to break ties in whatever way they see fit. (Commiserations to A Portrait of the Artist as a Young Man by James Joyce, which looks like it missed out on the tie-breaker, being joint-97th with Catch-22, The Road, and The Go-Between, all three of which just sneaked in.)
+
+But, second, there is one big inconsistency. In my scoring, My Ántonia by Willa Cather comes joint 75th, alongside The Bluest Eye, Dracula, and The Rainbow. But in the Guardian's list, My Ántonia only just scraped onto the list at position 100.
+
+What could explain this? Well, I don't know the Guardian's scoring method was the same as mine. Perhaps it was slightly different in such a way that the whole top 100 was totally unaffected with the sole exception of My Ántonia being knocked down 25 places. More likely, it seems to me, is that there was an error somewhere. Most likely seems that Tahmima Anam's tenth place vote got ignored. That gave the book 20 points for being included, plus 1 point for being tenth. Without that, the score goes down from 100 to 79, which moves it down from joint-75th to joint-97th, consistent with its ranking of 100.)
+
+## The lists
+
+Anyway, here's the Guardian's ranking (left) against the one reproduced by my scoring method (right).
 
 <table>
 	<tr>
@@ -491,3 +509,15 @@
 	</tr>
 </table>
 
+
+## PS
+
+If you're interested, the following books just missed out on the list, begin joint 102nd, after A Portrait of the Artist as a Young Man by James Joyce:
+
+* Love in the Time of Cholera by Gabriel García Márquez
+* The Years by Annie Ernaux
+* The Lord of the Rings by J.R.R. Tolkien
+* To Kill a Mockingbird by Harper Lee
+* Light in August by William Faulkner
+
+Also, if you plan to work with data direct from the Guardian website, you should know that the book by Laurence Stern ranked 19th in the list appears as both "The Life and Opinions of Tristram Shandy" and "The Life and Opinions of Tristram Shandy, Gentleman".
