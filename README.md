@@ -520,4 +520,6 @@ If you're interested, the following books just missed out on the list, being joi
 * To Kill a Mockingbird by Harper Lee
 * Light in August by William Faulkner
 
+Various code was written with assistance from GPT.
+
 Also, if you plan to work with data direct from the Guardian website, you should know that the book by Laurence Stern ranked 19th in the list appears as both "The Life and Opinions of Tristram Shandy" and "The Life and Opinions of Tristram Shandy, Gentleman".
