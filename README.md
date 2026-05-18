@@ -533,7 +533,7 @@ Anyway, here's the Guardian's ranking (left) against the one reproduced by my sc
 	</tr>
 </table>
 
-[More analysis on my blog, here.](https://mpaldridge.github.io/blog/guardian-novels.html).
+[More analysis on my blog, here.](https://mpaldridge.github.io/blog/guardian-novels.html)
 
 
 
