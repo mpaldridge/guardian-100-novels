@@ -1,18 +1,42 @@
-# Is there an error in the Guardian 100 best novels list?
+# Guardian 100 best novels: the data
 
 I have been enjoying reading through (and arguing with!) the Guardian's [100 best novels list](https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time).
 
-I was interested in doing some statistical analysis of the data, so I downloaded the list of votes, and started playing with it in R. The Guardian doesn't say how they turned the raw votes into the top-100 ranking, but it seems to be consistent with the following method:
+I thought it would be fun to do a bit of statistical messing around with the votes and see what I could find out. With a bit of rootling around you can find [this file](https://interactive.guim.co.uk/atoms/2026/03/2026-best-100-books-testing/best-100-books/v/1778864974/app.js), and then – in my case, with help from GPT – you can extract all the voting data. To save anyone else the effort, you can find that voting data in a much more pleasant CSV file in this repository. The relevant files are
+
+* **`votes.csv`** contains all of the voting data
+* **`guardian-ranking.csv`** is the Guardian's top 100 list
+
+I've written about some statistical experiments I did with that [here, on my blog](https://mpaldridge.github.io/blog/guardian-novels.html).
+
+
+## Scoring method
+
+The Guardian doesn't say how they turned the raw votes into the top-100 ranking, but it seems to be *almost* consistent with the following method:
 
 * A book gets 20 points for being mentioned on a list at all.
 * The book then gets extra points for how high it is on the list: 1 extra point for tenth, 2 extra points for ninth, and so on, up to 10 extra points for first.
 * So overall, the scores are 21 for tenth, 22 for ninth, up to 30 for ninth.
 
+(The scoring method might not exactly be this – you can probably change the 20 a bit and still get equivalent results. And of course you can scale the scores by some constant factor without changing anything. But I’m fairly sure the true scoring method must be pretty close to this.)
+
+The R script **`scoring.R`** applies this scoring method to the voting data, and the resulting scores for each novel are in **`my_scores.csv`**.
+
+## Errors and other problems
+
 Well, the Guardian's list *almost* seems consistent with this method. If we compare the Guardian's ranking with the one I reproduced with this method, we see two differences. First, my method gives some ties – of course, it's totally fair for the Guardian to break ties in whatever way they see fit. (Commiserations to A Portrait of the Artist as a Young Man by James Joyce, which looks like it missed out on the tie-breaker, having the same score as Catch-22, The Road, and The Go-Between, all three of which just sneaked in.)
 
-But, second, there is one big inconsistency. In my scoring, My Ántonia by Willa Cather comes joint 75th, alongside The Bluest Eye, Dracula, and The Rainbow. But in the Guardian's list, My Ántonia only just scraped onto the list at position 100.
+But, second, there is one big inconsistency. In my scoring, **My Ántonia** by Willa Cather comes joint 75th, alongside The Bluest Eye, Dracula, and The Rainbow. But in the Guardian's list, My Ántonia only just scraped onto the list at position 100. What could explain this? Well, I don't know the Guardian's scoring method was the same as mine. Perhaps it was slightly different in such a way that the whole top 100 was totally unaffected with the sole exception of My Ántonia being knocked down 25 places. More likely, it seems to me, is that there was an error somewhere. The best explanation I can come up with is that Tahmima Anam's tenth-place vote for it somehow got ignored. That vote gave the book 20 points for being included, plus 1 point for being tenth. Without it, My Ántonia's score goes down from 100 to 79, which moves it down from joint-75th to joint-97th, consistent with its ranking of 100.)
 
-What could explain this? Well, I don't know the Guardian's scoring method was the same as mine. Perhaps it was slightly different in such a way that the whole top 100 was totally unaffected with the sole exception of My Ántonia being knocked down 25 places. More likely, it seems to me, is that there was an error somewhere. The best explanation I can come up with is that Tahmima Anam's tenth-place vote for it somehow got ignored. That vote gave the book 20 points for being included, plus 1 point for being tenth. Without it, My Ántonia's score goes down from 100 to 79, which moves it down from joint-75th to joint-97th, consistent with its ranking of 100.)
+Another issue is the book by Albert Camus called **L’Étranger** in French. Its title has been translated as both The Stranger (more common in the US) and The Outsider (more common in the UK). “The Stranger” received two votes, for 51 points, and “The Outsider” also received two votes, for 52 points. Individually, neither of these are enough to get on the list – but, merged together, 103 points for The Stranger/Outsider is enough to catapult it up to 71st place, between Jude the Obscure by Thomas Hardy and Kindred by Octavia E Butler.
+
+In the data in this repository:
+
+* All the votes for My Ántonia were counted, so it has a score of 100 in `my_scores.csv`.
+* I have *not* merged together votes for The Outsider and The Stranger in either `votes.csv` or `my_scores.csv`.
+* In the Guardian's raw data, the book by Laurence Stern ranked 19th in the list appears as both "The Life and Opinions of Tristram Shandy" and "The Life and Opinions of Tristram Shandy, Gentleman". Since the Guardian did correctly count these together in their calculations, I have changed the non-"Gentleman" entries to with-"Gentleman" in `votes.csv`.
+* Users should be cautious about other consistencies in the data outside the top 100. For example, the novel by Victor Hugo appears under both "Notre Dame De Paris" and "The Hunchback of Notre Dame"; punctuation of "VS Naipaul" is inconsistent; and so on.
+
 
 ## The lists
 
@@ -509,19 +533,8 @@ Anyway, here's the Guardian's ranking (left) against the one reproduced by my sc
 	</tr>
 </table>
 
+[More analysis on my blog, here.](https://mpaldridge.github.io/blog/guardian-novels.html).
 
-## PS
 
-If you're interested, the following books just missed out on the list, being joint 102nd, after A Portrait of the Artist as a Young Man by James Joyce:
 
-* Love in the Time of Cholera by Gabriel García Márquez
-* The Years by Annie Ernaux
-* The Lord of the Rings by J.R.R. Tolkien
-* To Kill a Mockingbird by Harper Lee
-* Light in August by William Faulkner
 
-The highest-scoring authors that didn't appear on the list, due to their scores being spread over too many different books, were: John Steinbeck, Don DeLillo, Saul Bellow, Albert Camus, Anthony Trollope, Angela Carter, Iris Murdoch, Penelope Fitzgerald, Evelyn Waugh, and Abdulrazak Gurnah.
-
-Various code was written with assistance from GPT.
-
-Also, if you plan to work with data direct from the Guardian website, you should know that the book by Laurence Stern ranked 19th in the list appears as both "The Life and Opinions of Tristram Shandy" and "The Life and Opinions of Tristram Shandy, Gentleman".
