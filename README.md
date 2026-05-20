@@ -35,7 +35,7 @@ In the data in this repository:
 * All the votes for My Ántonia were counted, so it has a score of 100 in `my_scores.csv`.
 * I have *not* merged together votes for The Outsider and The Stranger in either `votes.csv` or `my_scores.csv`.
 * In the Guardian's raw data, the book by Laurence Stern ranked 19th in the list appears as both "The Life and Opinions of Tristram Shandy" and "The Life and Opinions of Tristram Shandy, Gentleman". Since the Guardian did correctly count these together in their calculations, I have changed the non-"Gentleman" entries to with-"Gentleman" in `votes.csv`.
-* Users should be cautious about other consistencies in the data outside the top 100. For example, the novel by Victor Hugo appears under both "Notre Dame De Paris" and "The Hunchback of Notre Dame"; punctuation of "VS Naipaul" is inconsistent; and so on.
+* Users should be cautious about other consistencies in the data outside the top 100 that I have *not* altered or fixed. For example, the novel by Victor Hugo appears under both "Notre Dame De Paris" and "The Hunchback of Notre Dame"; Alice's Adventures in Wonderland also appears as "Alice in Wonderland"; punctuation of "JL Carr" and "VS Naipaul" are inconsistent; and so on. ([Steffen Rayburn-Maarup](https://bsky.app/profile/rayburnmaarup.bsky.social/post/3mmby3qgkhk22) noted some of these and some other inconsistencies or debatable issues with novels in a series.)
 
 
 ## The lists
@@ -395,6 +395,11 @@ Anyway, here's the Guardian's ranking (left) against the one reproduced by my sc
 	<tr>
 		<td>70</td>
 		<td>Jude the Obscure by Thomas Hardy</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td>*The Stranger/Outsider by Albert Camus (103) ought to be here*</td>
 	</tr>
 	<tr>
 		<td>71</td>
