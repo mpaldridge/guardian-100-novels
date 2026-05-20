@@ -399,7 +399,7 @@ Anyway, here's the Guardian's ranking (left) against the one reproduced by my sc
 	<tr>
 		<td></td>
 		<td></td>
-		<td>*The Stranger/Outsider by Albert Camus (103) ought to be here*</td>
+		<td><i>The Stranger/Outsider by Albert Camus (103) ought to be here</i></td>
 	</tr>
 	<tr>
 		<td>71</td>
