@@ -522,7 +522,7 @@ Anyway, here's the Guardian's ranking (left) against the one reproduced by my sc
 	<tr>
 		<td>97</td>
 		<td>Catch-22 by Joseph Heller</td>
-		<td rowspan="4">Catch-22 by Joseph Heller (79)<br>The Road by Cormac McCarthy (79)<br>The Go-Between by LP Hartley (79)<br>A Portrait of the Artist as a Young Man by James Joyce (79)</td>
+		<td rowspan="4">Catch-22 by Joseph Heller (79)<br>The Road by Cormac McCarthy (79)<br>The Go-Between by LP Hartley (79)<br><i>A Portrait of the Artist as a Young Man by James Joyce (79)</i></td>
 	</tr>
 	<tr>
 		<td>98</td>
