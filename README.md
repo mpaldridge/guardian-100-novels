@@ -2,12 +2,12 @@
 
 I have been enjoying reading through (and arguing with!) the Guardian's [100 best novels list](https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time).
 
-I thought it would be fun to do a bit of statistical messing around with the votes and see what I could find out. With a bit of rootling around you can find [this file](https://interactive.guim.co.uk/atoms/2026/03/2026-best-100-books-testing/best-100-books/v/1778864974/app.js), and then – in my case, with help from GPT – you can extract all the voting data. To save anyone else the effort, you can find that voting data in a much more pleasant CSV file in this repository. The relevant files are
+I thought it would be fun to do a bit of statistical messing around with the votes and see what I could find out. **I've written about some statistical experiments I did with this [here, on my blog](https://mpaldridge.github.io/blog/guardian-novels.html).** This is the nerdier version for people who want to play with the data themselves.
+
+With a bit of rootling around you can find [this file](https://interactive.guim.co.uk/atoms/2026/03/2026-best-100-books-testing/best-100-books/v/1778864974/app.js), and then – in my case, with help from GPT – you can extract all the voting data. To save anyone else the effort, you can find that voting data in a much more pleasant CSV file in this repository. The relevant files are
 
 * **`votes.csv`** contains all of the voting data
 * **`guardian-ranking.csv`** is the Guardian's top 100 list
-
-I've written about some statistical experiments I did with that [here, on my blog](https://mpaldridge.github.io/blog/guardian-novels.html).
 
 
 ## Scoring method
@@ -533,7 +533,7 @@ Anyway, here's the Guardian's ranking (left) against the one reproduced by my sc
 	</tr>
 </table>
 
-[More analysis on my blog, here.](https://mpaldridge.github.io/blog/guardian-novels.html)
+**[More analysis on my blog, here.](https://mpaldridge.github.io/blog/guardian-novels.html)**
 
 
 
